@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JustBeeAmazing
 - 👀 I’m interested in ...Computer and slt.
-- 🌱 I’m currently learning ...English
+- 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mattesdos@gmail.com
 
